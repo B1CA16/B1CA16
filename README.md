@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="Francisco Ferreira, Full Stack Engineer" width="100%">
+<img src="./assets/banner-glacier.svg" alt="Francisco Ferreira, Full Stack Engineer" width="100%">
 
 I'm a full stack engineer at **[Cannabud.ai](https://cannabud.ai)**, where I build production web and mobile products end to end: React and React Native on the front, Python, Go and Node behind them, Postgres underneath.
 
